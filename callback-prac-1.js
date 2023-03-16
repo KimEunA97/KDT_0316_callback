@@ -40,7 +40,7 @@ function same(num) {
 
 
 
-go(3, 2,big);
-go(2,2,same);
+go(3, 2, big);
+go(2, 2, same);
 
 // 두 정수를 받아서 더 큰 거 출력
